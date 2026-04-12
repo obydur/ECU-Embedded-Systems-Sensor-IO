@@ -1,6 +1,5 @@
 
 # Embedded System Development on ECU (Sensor I/O Handling) 
-Development-Environment-with-pin-configration-and-display-the-light-Sensor-Value
 2.1. Evaluation Board
 2.2. Compiling and Building Your Project 
 2.3. Flashing Your Project to the ECU
