@@ -89,7 +89,7 @@ The application reads the potentiometer through `ADC0.CDR[5]` and the LDR throug
 ## Project Structure
 
 ```text
-Embedded ECU Development – Sensor I/O and GPIO Programming/
+ECU-Embedded-Systems-Sensor-IO/
 │
 ├── .github/
 │   └── workflows/
