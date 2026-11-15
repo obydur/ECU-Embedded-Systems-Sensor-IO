@@ -88,7 +88,6 @@ The application reads the potentiometer through `ADC0.CDR[5]` and the LDR throug
 
 ## Project Structure
 
-```text
 ECU-Embedded-Systems-Sensor-IO/
 │
 ├── .github/
@@ -96,13 +95,9 @@ ECU-Embedded-Systems-Sensor-IO/
 │
 ├── main.c
 ├── siu.c
-│
 ├── Unit1_question.pdf
 ├── pin_muxing.pdf
-│
 └── README.md
-```
-
 ## Documentation
 
 The repository includes the following academic resources:
